@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there 👋, I'm Yuri
 
-<!--
-**litolax/litolax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=litolax)
 
-Here are some ideas to get you started:
+## I'm a beginner C# programmer
+- 💪 I like to write code
+- 🎉 I love to speak with people, who know more than I.
+- 🥅 I want to find more and more friends.
+- ⚡ I like to watch interesting videos in youtube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="json | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+</details>
+
+[telegram]: https://t.me/litolaxac
