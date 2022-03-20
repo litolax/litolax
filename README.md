@@ -31,4 +31,4 @@
 
 
 
-[telegram]: https://t.me/litolaxac
+[telegram]: https://t.me/litolax
