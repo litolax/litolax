@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=litolax)
 <a href="https://github.com/itgoyo">
         <img alt="github"
-            src="https://img.shields.io/github/stars/itgoyo?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+            src="https://img.shields.io/github/stars/litolax?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
 </a>
 
 ### Connect with me:
@@ -30,9 +30,9 @@
 <!-- GitHub Stats -->  
 <p>  
 <!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litolax&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=darcula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litolax&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=darcula"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=darcula"/>  
 </p>  
 
 [telegram]: https://t.me/litolax
