@@ -1,34 +1,38 @@
-### Hi there 👋, I'm Yuri
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ![](https://komarev.com/ghpvc/?username=litolax)
-
-## I'm a beginner C# programmer
-- 💪 I like to write code
-- 🎉 I love to speak with people, who know more than I.
-- 🥅 I want to find more and more friends.
-- ⚡ I like to watch interesting videos in youtube
+<a href="https://github.com/itgoyo">
+        <img alt="github"
+            src="https://img.shields.io/github/stars/itgoyo?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+</a>
 
 ### Connect with me:
 
-[<img align="left" alt="json | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="json | telegram" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/512px-Telegram_X_2019_Logo.svg.png" />][telegram]
 
+<br />
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>
+<a href="https://www.mongodb.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" height="45">
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt="dotnet" width="45" height="45"/></a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
+<a href="https://about.gitlab.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45">
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=litolax&show_icons=true&theme=radical)" />
-</details>
-
-
+<!-- GitHub Stats -->  
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litolax&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=darcula" />
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=darcula"/>  
+</p>  
 
 [telegram]: https://t.me/litolax
