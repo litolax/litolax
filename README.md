@@ -1,4 +1,4 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi there <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/clapping_hands_256_1.gif" width="30px" height="30px"></h2>
 
 ![](https://komarev.com/ghpvc/?username=litolax)
 <a href="https://github.com/itgoyo">
