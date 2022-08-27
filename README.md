@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/clapping_hands_256_1.gif" width="30px" height="30px"></h2>
 
 ![](https://komarev.com/ghpvc/?username=litolax)
-<a href="https://github.com/itgoyo">
+<a href="https://github.com/litolax">
         <img alt="github"
             src="https://img.shields.io/github/stars/litolax?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
 </a>
