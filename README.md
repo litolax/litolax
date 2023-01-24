@@ -25,14 +25,13 @@
 <a href="https://about.gitlab.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45">
 
 <br />
-<br />
 
-<!-- GitHub Stats -->  
-<!-- <p>   -->
-<!-- GitHub Stats -->  
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=litolax&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
-<!-- Most Used Languages -->  
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=darcula"/>   -->
-<!-- </p>   -->
+<!-- GitHub Stats   -->
+<p>  
+<!-- GitHub Stats   -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litolax&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<!-- Most Used Languages   -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=darcula"/>  
+</p>  
 
 [telegram]: https://t.me/litolax
