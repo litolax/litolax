@@ -24,14 +24,6 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
 <a href="https://about.gitlab.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45">
 
-<br />
-
-<!-- GitHub Stats   -->
-<p>  
-<!-- GitHub Stats   -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litolax&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<!-- Most Used Languages   -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litolax&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=darcula"/>  
-</p>  
-
+![](./github-metrics.svg)
+        
 [telegram]: https://t.me/litolax
